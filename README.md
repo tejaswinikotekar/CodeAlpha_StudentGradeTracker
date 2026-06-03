@@ -41,7 +41,7 @@ Enter Name: Tejaswini
 Enter Grade: 85
 
 Student 2
-Enter Name: Riya
+Enter Name: Madhura
 Enter Grade: 90
 
 ===== STUDENT SUMMARY REPORT =====
