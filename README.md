@@ -1,2 +1,25 @@
 # CodeAlpha_StudentGradeTracker
 Java project for CodeAlpha Internship - Student Grade Tracker
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build folders
+bin/
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
